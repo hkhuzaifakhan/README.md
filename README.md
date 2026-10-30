@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Shahzada Muhammad Ahmed
+# 👋 Hi, I'm Muhammad Huzaifa Khan
 ### 🚀 Full Stack MERN Developer | React.js | Next.js | Node.js | React Native
 
 Full Stack MERN Developer with 5+ years of professional experience building scalable web and mobile applications.
@@ -79,12 +79,12 @@ I also have hands-on experience with REST APIs, System Design, MVC Architecture,
 
 ## 🤝 Let's Connect
 
-[🌐 WEBSITE](https://shahzadaahmed.vercel.app)   
-[🐙 GITHUB](https://github.com/Shahzadaahmed)   
+[🌐 WEBSITE](https://tere-web-clone-by-huzaifa.netlify.app/)   
+[🐙 GITHUB](https://nasa-clone-by-huzaifa.netlify.app/)   
 [💼 LINKEDIN](https://www.linkedin.com/in/shahzada-muhammad-ahmed-5b15231a9/)   
 [📘 FACEBOOK](https://www.facebook.com/Codemaster08.07.95)
 
-📧 Email: shahzada.ahmed1996@gmail.com
+📧 Email: muhammadhuzaifakhaann6@gmail.com
 
 ---
 
